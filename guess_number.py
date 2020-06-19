@@ -27,4 +27,4 @@ try:
     int(my_item)
     print(binary_search(my_list, int(my_item)))
 except:
-    print(f"{my_item} isn't a integer!")
+    print(f"{my_item} isn't an integer!")
